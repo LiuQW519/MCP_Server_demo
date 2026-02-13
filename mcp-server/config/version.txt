@@ -1,0 +1,7 @@
+# 智能问数MCP服务版本信息
+# 此文件用于管理版本信息，修改后无需重新编译代码
+
+VERSION=V1.0.0
+BUILD_DATE=2026.02.13:10:58
+APP_NAME=智能问数MCP服务
+DESCRIPTION=H3C智能排障与智能问数系统
